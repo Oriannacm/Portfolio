@@ -12,17 +12,11 @@ footer {
       padding: 0% 2% 0% 2%;
   
   }
-  
-.signUp form {
-    margin: 35px auto;
-    background-color: #f2f2f2;
-    padding: 25px;
-    border-radius: 7px;
-  }
 
 .btn {
 background-color: #DC0F91;
 border: none;
+border-radius: 40px;
 }
 
 .card {
@@ -33,10 +27,6 @@ border: none;
     background-color: #EDF2F3;
 }
 
-.navbar{
-    background-color: #1C1057;
-}
 
-.button {
-    background-color: #DC0F91;
-}
+
+ 
