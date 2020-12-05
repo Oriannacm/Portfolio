@@ -7,8 +7,6 @@ footer {
     margin-top: 50px;
   }
   
-
-
 .btn {
 background-color: #DC0F91;
 border: none;
@@ -69,6 +67,6 @@ border-radius: 40px;
 }
 
 .card-GIT{
-    margin-left: 20%;
+    align-items: center;
+    justify-content: center;
 }
-
