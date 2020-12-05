@@ -29,7 +29,7 @@ border-radius: 40px;
     color: white;
     align-items: center;
     justify-content: start;
-    
+    margin-bottom: 0px !important;
 }
 
 .jumboCopy{
@@ -50,6 +50,7 @@ border-radius: 40px;
 }
 .project{
     padding: 0px 30px 30px 30px;
+    margin-bottom: 20px;
 }
 
 .navbar-brand{
@@ -70,3 +71,4 @@ border-radius: 40px;
 .card-GIT{
     margin-left: 20%;
 }
+
