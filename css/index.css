@@ -37,6 +37,7 @@ border-radius: 40px;
 }
 .jumbotron-fluid{
     background-color: #EDF2F3;
+    margin-top: 0 auto !important;
 }
 
 @font-face {
@@ -66,3 +67,6 @@ border-radius: 40px;
     background-color: #EDF2F3 !important;
 }
 
+.card-GIT{
+    margin-left: 20%;
+}
