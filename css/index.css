@@ -25,16 +25,25 @@ border-radius: 40px;
     font-family: 'myFirstFont';
     src: url('../fonts/BonvenoCF-Light-webfont.woff');
 }
-
-.navbar-brand{
-    font-family: 'myFirstFont' !important;
-}
-
 .sectionHeading{
     text-align: start;
     margin: 20px;
 }
-
 .project{
     padding: 0px 30px 30px 30px;
+}
+
+.navbar-brand{
+    font-family: 'myFirstFont' !important;
+}
+.navbar-nav{
+    margin-right: 0 !important;
+    margin-left: auto;
+}
+.navbar-nav a:hover{
+    color: #DC0F91 !important;
+}
+
+.navbar {
+    background-color: #EDF2F3 !important;
 }
