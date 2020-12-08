@@ -13,6 +13,9 @@ border: none;
 border-radius: 40px;
 }
 
+.btn:hover{
+    background-color:rgba(85, 15, 215, 0.89);
+}
 .card{
     margin: 2%;
 }
